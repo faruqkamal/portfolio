@@ -1,8 +1,16 @@
 [
   {
+    "company": "PT Astra Otoparts Tbk, WINTEQ Division",
+    "logo": "images/astra-logo.png",
+    "position": "Intern - Electrical and Robotic Applications Division",
+    "year": "2024 - 2025",
+    "description": "During my internship at Astra, I was involved in electrical and robotic system applications for industrial automation. My tasks included designing, wiring, and programming control systems using PLCs and microcontrollers, supporting robotic integration, and assisting in troubleshooting automation systems. This experience deepened my skills in hardware interfacing, industrial wiring standards, and real-world automation workflows."
+  },
+
+  {
     "company": "Knowledge Development Student Activity Unit",
     "logo": "images/pp-logo.png",
-    "position": "Steering Committee, Education and Training Department",
+    "position": "Steering Committee - Education and Training Department",
     "year": "2024 - 2025",
     "description": "As a steering committee in the Education and Training Department, I led strategic planning and supervision of training programs. I oversaw event execution, coordinated with department heads and external partners, and implemented quality improvement initiatives to maximize the impact of educational activities. This role required leadership, communication, and organizational skills to support the unit's mission of knowledge development."
   },  
@@ -10,10 +18,9 @@
   {
     "company": "Knowledge Development Student Activity Unit",
     "logo": "images/pp-logo.png",
-    "position": "Staff, Education and Training Department",
+    "position": "Staff - Education and Training Department",
     "year": "2023 - 2024",
     "description": "As a staff member in the Education and Training Department, I was responsible for organizing and managing software training events for new students. I coordinated logistics, developed training materials, and ensured effective delivery of sessions. Additionally, I contributed to the development of other hard skills workshops to enhance students' technical competencies."
   }
-
   ]
   
