@@ -7,7 +7,7 @@
     "socialMedia": [
         {
             "platform": "LinkedIn",
-            "url": ""
+            "url": "https://www.linkedin.com/"
         },
         {
             "platform": "GitHub",
@@ -15,7 +15,7 @@
         },
         {
             "platform": "Twitter",
-            "url": ""
+            "url": "https://x.com/"
         }
     ],
     "cv": {
@@ -24,14 +24,14 @@
 			"icon": "fas fa-file-pdf"
 	},
 "skills": [
-  { "name": "Embedded Systems & Automation", "icon": "fas fa-robot", "level": 50 },
-  { "name": "Web Development (Django, Laravel, Node.js)", "icon": "fas fa-code", "level": 50 },
-  { "name": "Mobile App Development (Flutter)", "icon": "fas fa-mobile-alt", "level": 50 },
-  { "name": "Hardware Programming (Arduino, ESP, PLC)", "icon": "fas fa-microchip", "level": 50 },
-  { "name": "UI/UX & Graphic Design (Figma, Illustrator)", "icon": "fas fa-pen-nib", "level": 50 },
-  { "name": "3D Design (SolidWorks)", "icon": "fas fa-cube", "level": 50 },
-  { "name": "Industrial & Robotic Applications", "icon": "fas fa-industry", "level": 50 },
-  { "name": "Foreign Languages (English)", "icon": "fas fa-language", "level": 50 }
+  { "name": "Embedded Systems & Automation", "icon": "fas fa-robot", "level": 80 },
+  { "name": "Web Development (Django, Laravel, Node.js)", "icon": "fas fa-code", "level": 80 },
+  { "name": "Mobile App Development (Flutter)", "icon": "fas fa-mobile-alt", "level": 70 },
+  { "name": "Hardware Programming (Arduino, ESP, PLC)", "icon": "fas fa-microchip", "level": 80 },
+  { "name": "UI/UX & Graphic Design (Figma, Illustrator)", "icon": "fas fa-pen-nib", "level": 80 },
+  { "name": "3D Design (SolidWorks)", "icon": "fas fa-cube", "level": 70 },
+  { "name": "Industrial & Robotic Applications", "icon": "fas fa-industry", "level": 80 },
+  { "name": "Foreign Languages (English)", "icon": "fas fa-language", "level": 80 }
 ]
 
 

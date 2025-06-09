@@ -626,4 +626,10 @@ footer {
     align-items: flex-start;
     gap: 0.5rem;
   }
+
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Satu kolom penuh */
+    gap: 1rem;
+  }
 }
