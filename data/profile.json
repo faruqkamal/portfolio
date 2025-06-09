@@ -1,0 +1,38 @@
+{
+    "name": "Muhammad Faruq Kamal - Electronics Engineering Student & Tech Enthusiast",
+    "description": "A dedicated and continuously growing Electronics Engineering student with a strong passion for technology and system design. Equally interested in both hardware and software development, actively exploring various fields to broaden knowledge and skills. Experienced in working independently and collaboratively, with a high enthusiasm for learning new things and solving challenges creatively. Academic and industry experiences have provided a solid foundation in understanding real-world technological applications. Committed to lifelong learning, adaptability, and making meaningful contributions in every opportunity.",
+    "profileImage": "images/profile2.jpg",
+    "email": "kamalfaruqq8724@gmail.com",
+    "phone": "+62 (831) 233-02391",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": ""
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/faruqkamal"
+        },
+        {
+            "platform": "Twitter",
+            "url": ""
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+"skills": [
+  { "name": "Embedded Systems & Automation", "icon": "fas fa-robot", "level": 50 },
+  { "name": "Web Development (Django, Laravel, Node.js)", "icon": "fas fa-code", "level": 50 },
+  { "name": "Mobile App Development (Flutter)", "icon": "fas fa-mobile-alt", "level": 50 },
+  { "name": "Hardware Programming (Arduino, ESP, PLC)", "icon": "fas fa-microchip", "level": 50 },
+  { "name": "UI/UX & Graphic Design (Figma, Illustrator)", "icon": "fas fa-pen-nib", "level": 50 },
+  { "name": "3D Design (SolidWorks)", "icon": "fas fa-cube", "level": 50 },
+  { "name": "Industrial & Robotic Applications", "icon": "fas fa-industry", "level": 50 },
+  { "name": "Foreign Languages (English)", "icon": "fas fa-language", "level": 50 }
+]
+
+
+}

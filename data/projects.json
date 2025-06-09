@@ -1,0 +1,27 @@
+[
+    
+    {
+        "title": "IoT-Based Smart Farming System for Vegetable Cultivation in Bebengan Village",
+        "year": "2025",
+        "role": "Hardware & Software Developer",
+        "description": "Designed an automatic irrigation system using Arduino Mega, ESP32, and MQTT. Sensors monitor soil and air conditions; the system is controllable via a web dashboard for remote farm management.",
+        "image": "images/x.png",
+        "link": "https://example.com/smart-farming-bebengan"
+    },
+    {
+        "title": "Potato Aeroponic and Control System",
+        "year": "2024",
+        "role": "Hardware & Software Developer",
+        "description": "Developed an aeroponic system using Arduino Mega and ESP8266 for IoT. Implemented Laravel-based dashboard and integrated multiple sensors (pH, temperature, humidity, TDS) for real-time monitoring and control.",
+        "image": "images/x.png",
+        "link": "https://example.com/potato-aeroponic"
+    },
+    {
+        "title": "Prototype of IoT Based Package Receiver",
+        "year": "2023",
+        "role": "Hardware & Software Developer",
+        "description": "Built an IoT-based package receiver using Arduino and ESP32-CAM. Integrated Telegram Bot API for user interaction and utilized servo motors and LCD for real-time responses.",
+        "image": "images/x.png",
+        "link": "https://example.com/iot-package-receiver"
+    } 
+]
